@@ -1,1 +1,2 @@
-# realize-BinarySearchTree-
+# 緣由
+在學習演算法時，得知二元搜尋樹的存在，便開始思索如何實現，
